@@ -15,7 +15,7 @@ Deshalb habe ich sie einfach in eine Text Datei gepackt und eine «.ead» Datei 
 Da dies einige Minuten ging, fing ich bereits an hier zu dokumentieren. Die Anzeige in ArchivesSpace habe ich mit der HTML Ansicht kurz verglichen. 
 Diese Importierte Datei exportierte ich in einem zweiten Schritt. Dies war zu finden unter Resources > der Datei > Edit > Export > Download MARCXML.
  
-![Export ArchivesSpace](Übung1.png?raw=true)
+![Export ArchivesSpace](Übung1.png)
 
  
 Als ich die MARCXML Datei verglich mit dem Eintrag in ArchivesSpace fiel mir auf, dass bei den Extends der Begriff in Portion nicht im XML vorhanden ist und auch die Finding Aid Data sah ich nicht in der MARCXML Datei. In diesem Falle muss festgestellt werden, dass der Export Informationsverlust mit sich zieht.
