@@ -19,7 +19,8 @@ Diese Importierte Datei exportierte ich in einem zweiten Schritt. Dies war zu fi
 ![Export ArchivesSpace](Uebung1.png?raw=true)
 
  
-Als ich die MARCXML Datei verglich mit dem Eintrag in ArchivesSpace fiel mir auf, dass bei den Extends der Begriff in Portion nicht im XML vorhanden ist und auch die Finding Aid Data sah ich nicht in der MARCXML Datei. In diesem Falle muss festgestellt werden, dass der Export Informationsverlust mit sich zieht.
+Als ich die MARCXML Datei verglich mit dem Eintrag in ArchivesSpace fiel mir auf, dass bei den Extends der Begriff in Portion nicht im XML vorhanden ist und auch 
+die Finding Aid Data sah ich nicht in der MARCXML Datei. In diesem Falle muss festgestellt werden, dass der Export Informationsverlust mit sich zieht.
 
 
 
