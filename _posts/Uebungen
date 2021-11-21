@@ -23,4 +23,11 @@ Als ich die MARCXML Datei verglich mit dem Eintrag in ArchivesSpace fiel mir auf
 
 
 
-Aufgabe vom XX.11
+Aufgabe vom 19.11
+Bei dieser Übung ging es darum, die erstellte Publikation in DSpace  über die OAI-PMH Schnittstelle  zu exportieren. 
+Das würde normalerweise nicht händisch gemacht, sondern per Algorithmus automatisch in ein anderes System übertragen. 
+Ich entschied mich, gleich am nächsten Tag den Download durchzuführen, sodass ich nicht nochmals eine neue Community, sowie Collection mit einer Publikation anlegen muss. 
+Leider war aber der ganze Tag der Service unavailable. Als ich am nächsten Tag nochmals auf die Seite zugriff, waren wie angekündigt alle Communitys und Collections gelöscht. 
+So entschied ich mich einfach eine Beispieldatei, welche in OAI-PMH zu finden war, herunterzuladen. 
+Mehr gibt es zu dieser Übung eigentlich nicht zu sagen 😊 kurz und knackig
+
