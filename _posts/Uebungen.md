@@ -10,7 +10,7 @@ Ich konnte auch dieses Mal die Dropdowns nicht öffnen, was mich wieder stutzig 
 und mit Eingabe der ersten Buchstaben in das Dropdown Feld. 
 Dies hatte ich nicht erwartet. Nach diesem aha Erlebnis, konnte ich mühelos die Accession und Resourcen anlegen und durch das jeweilige publishen, auch auf dem Port 8081 sehen.
 Danach gab es zwei weitere Übungen. Einmal zum Import von EAD-Beispieldaten ins ArchivesSpace und anschliessend werden diese importierten Daten in MARCXML exportiert.
-Ich konnte nicht feststellen, wo die Dateien auf der angegebenen Seite ( https://eadiva.com/sample-ead-files/) heruntergeladen werden konnten. 
+Ich konnte nicht feststellen, wo die Dateien auf der [angegebenen Seite]( https://eadiva.com/sample-ead-files/) heruntergeladen werden konnten. 
 Deshalb habe ich sie einfach in eine Text Datei gepackt und eine «.ead» Datei daraus gemacht. Danach habe ich diese auf ArchivesSpace hochgeladen, also importiert. 
 Da dies einige Minuten ging, fing ich bereits an hier zu dokumentieren. Die Anzeige in ArchivesSpace habe ich mit der HTML Ansicht kurz verglichen. 
 Die EAD Datei enthält nur eine “Resource”, aber keine “Digital Objects” und die Zeitspanne ist unterschiedlich.
@@ -36,7 +36,7 @@ Mehr gibt es zu dieser Übung eigentlich nicht zu sagen 😊 kurz und knackig
 
 ## Aufgabe vom 03.12.2021
 Konfiguration Suche und Facetten
-Für diese Übung durften wir uns zuerst dieses Video anschauen: https://www.youtube.com/watch?v=qFbW8u9UQyM&list=PL5_8_wT3JpgE5rv38PwE2ulKlgzBY389y&index=5
+Für diese Übung durften wir uns zuerst [dieses Video](https://www.youtube.com/watch?v=qFbW8u9UQyM&list=PL5_8_wT3JpgE5rv38PwE2ulKlgzBY389y&index=5)  anschauen.
 
 Ich fand es sehr spannend wie einfach es gemacht wurde, dass die Suche durch das «searches.ini» file mit vorgegebenen Parametern einfach modifiziert werden kann. 
 Hierzu wurden im Video ein paar Details aufgezeigt. 
