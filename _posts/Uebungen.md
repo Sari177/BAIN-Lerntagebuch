@@ -3,7 +3,7 @@
 ## Aufgabe vom 05.11.2021
 Import/Export in ArchivesSpace
 
-Am 05. November bekamen wir die erste Übung, die Dokumentiert werden darf. In dieser Übung geht es darum, dass in ArchivesSpace die Accession und Resource erstellt werden. 
+Am 05. November bekamen wir die erste Übung, die dokumentiert werden darf. In dieser Übung geht es darum, dass in ArchivesSpace die Accession und Resource erstellt werden. 
 Dies wurde eigentlich bereits im Unterricht durchgeführt, da es bei mir aber zu langen Wartezeiten und zu einem Time-out der VDI führte, holte ich dies noch nach.
 Es könnte sein, dass ich die Einträge auch schon während dem Unterricht hätte durchführen können. 
 Ich konnte auch dieses Mal die Dropdowns nicht öffnen, was mich wieder stutzig machte. Durch herausprobieren, ging es dann mit den Pfeiltasten 
